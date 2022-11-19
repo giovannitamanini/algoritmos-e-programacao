@@ -14,3 +14,9 @@ idade_em_meses = int((idade_em_dias % DIAS_POR_ANO) / DIAS_POR_MES)
 idade_em_dias = int((idade_em_dias % DIAS_POR_ANO) % DIAS_POR_MES)
 
 print("Você tem " + str(idade_em_anos) + " anos, " + str(idade_em_meses) + " meses e " + str(idade_em_dias) + " dias.")
+
+print(4/5)
+
+print(int(1453/132))
+
+print(1453//132)

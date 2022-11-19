@@ -12,3 +12,5 @@ distancia_entre_os_pontos = math.sqrt(pow(y_2 - y_1, 2)+pow(x_2 - x_1, 2))
 
 # Saída
 print("A distância entre os dois pontos no plano cartesiano é de: ",distancia_entre_os_pontos)
+
+print(11%3)
